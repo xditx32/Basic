@@ -1,5 +1,5 @@
 /* Deret Angka */
-class deret
+public class deret
 {
    public static void main (String[] args)
    {		
